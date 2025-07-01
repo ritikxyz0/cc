@@ -1,0 +1,15 @@
+name: ccq-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipykernel
+  - pandas
+  - requests
+  - numpy
+  - matplotlib
+  - beautifulsoup4
+  - lxml
+  
